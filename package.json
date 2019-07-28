@@ -1,0 +1,28 @@
+{
+  "name": "bloc",
+  "version": "1.0.0",
+  "description": "simple http node server",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kpwwalsh/simple-http-node-server.git"
+  },
+  "keywords": [
+    "http",
+    "node",
+    "server"
+  ],
+  "author": "Kyle Walsh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kpwwalsh/simple-http-node-server/issues"
+  },
+  "homepage": "https://github.com/kpwwalsh/simple-http-node-server#readme"
+}
