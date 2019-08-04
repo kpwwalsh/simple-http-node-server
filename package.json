@@ -4,7 +4,8 @@
   "description": "simple http node server",
   "main": "app.js",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "uuid": "^3.3.2"
   },
   "devDependencies": {},
   "scripts": {
